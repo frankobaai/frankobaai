@@ -1,127 +1,91 @@
 ![banner](./banner.svg)
 
-<div align="center">
+<h1 align="center">Hi, I'm Kobaai Frank</h1>
+<h3 align="center">Full-Stack Developer, AI Systems Builder, and Product-Focused Problem Solver</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kobaai-frank-683592384)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankobaai@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236474ff.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://wreckingball.ai)
-[![Resume](https://img.shields.io/badge/Resume-%2310b981.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://resume-rho-nine-52.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=frankobaai&style=for-the-badge&color=6474ff&label=PROFILE+VIEWS)](https://github.com/frankobaai)
+<p align="center">
+  I build practical digital systems that combine clean engineering, automation, strong UI thinking, and real business use cases.
+</p>
 
-</div>
+<p align="center">
+  My work spans WordPress, React, TypeScript, Node.js, .NET, AI tooling, workflow automation, and product systems that move from idea to working delivery.
+</p>
 
-<br/>
-
-### About Me
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  available: boolean;
-  stack: {
-    backend: string[];
-    frontend: string[];
-    database: string[];
-    ai: string[];
-    other: string[];
-  };
-  contact: string;
-}
-
-const frank: Developer = {
-  name: "Kobaai Frank",
-  role: "Full-Stack Developer",
-  location: "Remote",
-  available: true,
-  stack: {
-    backend: [".NET 8/9", "C#", "ASP.NET Core", "EF Core", "SignalR", "Node.js", "Fastify"],
-    frontend: ["React 18/19", "TypeScript", "React Native", "Next.js 14", "Tailwind CSS", "Vite"],
-    database: ["PostgreSQL", "SQLite", "Redis", "Supabase", "MariaDB"],
-    ai: ["OpenAI", "Claude", "Ollama", "Gemini", "Semantic Kernel", "RAG"],
-    other: ["WordPress", "PHP", "Docker", "MQL5/MT5", "GraphQL", "Stripe"],
-  },
-  contact: "frankobaai@gmail.com",
-};
-```
-
-<br/>
-
-### Currently Building
-
-![Bugatti Insights](https://img.shields.io/badge/Bugatti_Insights-.NET_9_%2B_React_19-1a1a2e?style=flat-square&labelColor=ef4444)
-![WreckingBall AI](https://img.shields.io/badge/WreckingBall_AI-React_%2B_TypeScript-1a1a2e?style=flat-square&labelColor=7c3aed)
-![ProsperGenics](https://img.shields.io/badge/ProsperGenics-AI_Agent_Platform-1a1a2e?style=flat-square&labelColor=10b981)
-![Autonomous Dev](https://img.shields.io/badge/Autonomous_Dev_System-automation_%2B_agents-1a1a2e?style=flat-square&labelColor=f59e0b)
-
-<br/>
-
-### Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,nodejs,postgres,redis,docker,wordpress,python,graphql,git&theme=dark&perline=12" />
-</div>
-
-<br/>
-
-### Live Deployments
-
-| Product | Description | Stack | Link |
-|---------|-------------|-------|------|
-| **Bugatti Insights** | Historical chassis registry with editorial and structured data workflows | .NET 9 · React 19 · WordPress · SignalR | [bugattiinsights.nl](https://bugattiinsights.nl) |
-| **WreckingBall AI** | AI automation SaaS platform | React 18 · TypeScript · Vite | [wreckingball.ai](https://wreckingball.ai) |
-| **ProsperGenics** | AI-first business platform and systems work | React · TypeScript · AI Systems | [prospergenics.com](https://prospergenics.com) |
-| **ArtRevisionist** | Custom WordPress art platform with bespoke theme and plugin work | WordPress · PHP · React · REST API | [artrevisionist.com](https://artrevisionist.com) |
-| **Gmail AI Reader** | Local AI email management workflow | React · TypeScript · Gmail API | [Live](https://gmail-ai-reader.netlify.app) |
-
-<br/>
-
-### What I Build
-
-```text
-Bugatti Insights    -> .NET 9 + React 19 + WordPress   | registry platform | editorial workflow
-Autonomous Dev      -> agent tooling + automation       | memory | orchestration | execution
-ynode               -> React + Node.js                  | visual workflow automation
-ArtRevisionist      -> WordPress + PHP + React          | custom content platform
-Nyao Scalper        -> MQL5 / MetaTrader 5              | trading logic | risk profiles
-WhatsApp Automation -> Node.js + n8n                    | messaging | orders | workflow automation
-```
-
-<br/>
-
-### Featured
-
-<div align="center">
-  <a href="https://github.com/frankobaai/artrevisionist-wp-plugin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankobaai&repo=artrevisionist-wp-plugin&theme=tokyonight&border_color=6474ff&bg_color=0e1223&title_color=6474ff&text_color=c7d0ff&icon_color=38bdf8" />
+<p align="center">
+  <a href="https://github.com/frankobaai">
+    <img src="https://img.shields.io/github/followers/frankobaai?label=Followers&style=for-the-badge" alt="followers" />
   </a>
-  &nbsp;
-  <a href="https://github.com/frankobaai/frankobaai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=frankobaai&repo=frankobaai&theme=tokyonight&border_color=6474ff&bg_color=0e1223&title_color=6474ff&text_color=c7d0ff&icon_color=38bdf8" />
+  <a href="https://github.com/frankobaai?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View-blue?style=for-the-badge" alt="repos" />
   </a>
-</div>
+  <a href="mailto:frankobaai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" alt="email" />
+  </a>
+</p>
 
-<br/>
+## About Me
 
-### GitHub Stats
+- I’m currently working on **Bugatti Insights**, **ProsperGenics**, **WreckingBall AI**, and AI-assisted automation systems.
+- I’m currently learning more about **advanced AI tooling**, **agent workflows**, **automation orchestration**, and stronger **backend architecture**.
+- I’m looking to build more **automation products**, **AI-enabled systems**, and **clean full-stack platforms** with real-world use.
+- All of my portfolio work is available through **[wreckingball.ai](https://wreckingball.ai)**.
+- Ask me about **React**, **TypeScript**, **Node.js**, **WordPress**, **.NET**, **automation workflows**, **AI tooling**, and **product UI work**.
+- How to reach me: **frankobaai@gmail.com**
+- Know about my work: **[resume-rho-nine-52.vercel.app](https://resume-rho-nine-52.vercel.app)**
+- Fun fact: I enjoy turning scattered ideas, broken flows, and half-finished systems into products people can actually use.
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=frankobaai&show_icons=true&theme=tokyonight&border_color=6474ff&bg_color=0d1117&title_color=6474ff&text_color=c7d0ff&icon_color=38bdf8&count_private=true&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankobaai&theme=tokyonight&border_color=6474ff&bg_color=0d1117&title_color=6474ff&text_color=c7d0ff&layout=compact&langs_count=8" height="160"/>
-</div>
+## Connect With Me
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=frankobaai&theme=tokyonight&border=6474ff&background=0d1117&ring=6474ff&fire=38bdf8&currStreakLabel=6474ff&sideLabels=c7d0ff&dates=7e8fbe" />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kobaai-frank-683592384" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  <a href="mailto:frankobaai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://wreckingball.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
+  <a href="https://resume-rho-nine-52.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="resume" />
+  </a>
+</p>
 
----
+## Languages And Tools
 
-<div align="center">
-  <b>Open to remote full-stack opportunities</b><br/><br/>
-  <a href="mailto:frankobaai@gmail.com">frankobaai@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kobaai-frank-683592384">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://wreckingball.ai">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://resume-rho-nine-52.vercel.app">Resume</a>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,nodejs,php,wordpress,python,postgres,mysql,sqlite,tailwind,git,github,docker,figma,vite" alt="skills" />
+</p>
+
+## Current Focus
+
+- Building automation systems that connect AI, messaging, and workflow execution
+- Shipping product work across React, WordPress, .NET, and Node.js stacks
+- Improving frontend quality while keeping systems operational and usable
+- Structuring projects so they are clean, maintainable, and production-ready
+
+## Selected Work
+
+- **Bugatti Insights**: historical registry platform combining WordPress, React, and .NET-based product architecture
+- **ArtRevisionist**: custom WordPress platform work with bespoke theme and plugin implementation
+- **Autonomous Dev System**: agent-oriented development environment with automation, memory, and execution workflows
+- **WhatsApp Automation**: operational messaging workflows using Node.js and n8n
+- **ynode**: visual workflow automation product with a modern frontend and extensible architecture
+
+## GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frankobaai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frankobaai&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frankobaai&theme=tokyonight" alt="streak stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=frankobaai&theme=tokyo-night" alt="activity graph" />
+</p>
